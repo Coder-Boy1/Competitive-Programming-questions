@@ -5,3 +5,4 @@ Question- Given a sorted array of numbers and a number, find if the given number
 Practise Question-
 Given a integer check if it is a perfect square of a number or not in O(logn) time and O(1) space.
 Same can be applied for cube also. 
+
